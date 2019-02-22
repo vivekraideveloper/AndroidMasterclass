@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979873628330",
+    "firebase_url": "https://androidmasterclass-f6779.firebaseio.com",
+    "project_id": "androidmasterclass-f6779",
+    "storage_bucket": "androidmasterclass-f6779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979873628330:android:44978e15c6495984",
+        "android_client_info": {
+          "package_name": "com.vijayjaidewan01vivekrai.androidmasterclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979873628330-ght49in2qs5hlrhpftr3tbnfogppto1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijayjaidewan01vivekrai.androidmasterclass",
+            "certificate_hash": "01e09bf00319c1b2c3414c9fe5a7940d45be4848"
+          }
+        },
+        {
+          "client_id": "979873628330-kn5besf4dv4sprlg5gm64l1nf6qnmilv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_kdC63zxkeTPX47JrgCA6XINSfbXW0U0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979873628330-kn5besf4dv4sprlg5gm64l1nf6qnmilv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
